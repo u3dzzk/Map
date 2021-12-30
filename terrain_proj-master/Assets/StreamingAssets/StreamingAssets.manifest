@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2178963483
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: testload_lightmap.ab
+      Dependencies: {}
